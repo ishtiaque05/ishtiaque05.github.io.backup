@@ -1,6 +1,6 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+url: 'http://ishtiaque05.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -27,7 +27,7 @@ github: ishtiaque05
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-109680361-1
 
 # Build settings
 encoding: "utf-8"
