@@ -1,0 +1,37 @@
+# Site Settings
+title: My Resume
+url: 'http://webjeda.com'
+baseurl: '/online-cv' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Syed Ishtiaque Ahmad
+tagline: Full Stack Developer(ROR)
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'An enthusiastic learner and eager programmer who
+loves to take challenges in designing, analyzing and
+solving critical problems with a wide breadth of skills
+acquired in the field of specialization..'
+
+#sidebar links
+email: ishtiaque05@gmail.com
+phone: +88 0194 866 5102
+linkedin: ishtiaque05
+github: ishtiaque05
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
