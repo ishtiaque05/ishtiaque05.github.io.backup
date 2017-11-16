@@ -4,7 +4,7 @@
 
 - project:
   title: Biyeta
-  link: "www.biyeta.com"
+  link: "https://www.biyeta.com"
   tagline: "A matrimony site of Bangladesh where people of various culture and religion meets and find their soul mates."
 - project:
   title: GeekHub
@@ -14,3 +14,15 @@
   title: Face detection
   link: "https://github.com/ishtiaque05/faceDetectionMatlab"
   tagline: "Face detection software built using matlab"
+- project:
+  title: Snake Game
+  link: "https://github.com/ishtiaque05/quarter-goal-july-17"
+  tagline: "Snake game of nokia 1100 developed in python using pygame."
+- project:
+  title: Snake Game in C
+  link: "https://github.com/ishtiaque05/snake_game"
+  tagline: "Snake game built using C programming."
+- project:
+  title: Point of Sale
+  link: "https://github.com/ishtiaque05/Simple-Store-Management"
+  tagline: "Point of sale built in Java using various design pattern from Gang of Four book"
