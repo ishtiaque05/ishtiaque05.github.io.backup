@@ -1,15 +1,33 @@
 - experience:
-  role: Full Stack Software Engineer
-  time: 2016(Jun) - Present
+  role: Software Engineer
+  time: Jan 2018 - Present
   company: Nascenia IT, Bangladesh
   details: "<div>Task:</div>
-            <div>- Initial feasibility analysis</div>
-            <div>- Scheduling tasks and milestones</div>
-            <div>- Actively taking part in both Frontend and Backend development</div>
-            <div>- Helping juniors solve critical problems and actively providing suggestions for continuous improvement</div>"
+            <div>- Working on every stack of application development </div>
+            <div>- Analyzing user needs and software requirements to determine feasibility of design 
+            within time and cost constraints </div>
+            <div>- Modifying existing software to minimize errors and to improve its performance </div>
+            <div>- Writing test code to check application faults</div>
+            <div>- Server hardening to increase server security </div>
+            <div>- Supervising the work of junior programmers </div>
+            <div>- Designing and developing software in different programming languages  </div>
+            <div>- Working effectively with design teams to ensure software solutions increase user 
+            experience </div>"
+            
+- experience:
+  role: Junior Software Engineer
+  time: Jun 2016 - Dec 2017
+  company: Nascenia IT, Bangladesh
+  details: "<div>Task:</div>
+            <div>- Working on every stack of application development </div>
+            <div>- Working with an agile team to develop, test, and maintain websites </div>
+            <div>- Designing, developing, and unit testing applications in accordance with established 
+            standards</div>
+            <div>- Assisting in the collection and documentation of users requirements </div>"            
+            
 - experience:
   role: Lab Instructor
-  time: 2016(Jan) - 2016(Jun)
+  time: 2016(Jan) - 2016(May)
   company: North South University, Bangladesh
   details: "<div>Task: </div>
             <div>- Created lab materials for C and Java language courses</div>
